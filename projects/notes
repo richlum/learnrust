@@ -1,0 +1,10 @@
+https://doc.rust-lang.org/cargo/reference/config.html
+CARGO_HTTP_CHECK_REVOKE=false
+CARGO_NET_GIT_FETCH_WITH_CLI=true
+https_proxy=10.0.88.11:8080
+http_proxy=10.0.88.11:8080
+no_proxy=.bfsaws.net,.broadridge.net,.local,.internal,localhost,sts.broadridge.com,.vpce.amazonaws.com
+
+
+file:///C:/Users/tirilum/.rustup/toolchains/stable-x86_64-pc-windows-msvc/share/doc/rust/html/book/ch02-00-guessing-game-tutorial.html
+

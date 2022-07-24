@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["build_user",""],["main",""]],"struct":[["Rectangle",""],["User","alternative method implement Display method"]]});
